@@ -39,6 +39,15 @@
   <img width="12" />
 </div>
 
+## Links:
+[![Website](https://img.shields.io/badge/Website-INGCapaDev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://Padiyera.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AlvaroCapaceta-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](www.linkedin.com/in/yeray-padial-borrero-40a73336b)
+
+
+## Contact:
+
+[![Email](https://img.shields.io/badge/ingcapadev@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:ingcapadev@gmail.com)
+
 <!--
 **YerayPadial/YerayPadial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
