@@ -21,7 +21,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=Java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
   <img width="12" />
