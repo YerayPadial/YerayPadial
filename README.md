@@ -40,8 +40,8 @@
 </div>
 
 ## Links:
-[![Website](https://img.shields.io/badge/Website-INGCapaDev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://Padiyera.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@AlvaroCapaceta-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](www.linkedin.com/in/yeray-padial-borrero-40a73336b)
+[![Website](https://img.shields.io/badge/Website-Padiyera-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://Padiyera.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@YerayPadial-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](www.linkedin.com/in/yeray-padial-borrero-40a73336b)
 
 
 ## Contact:
