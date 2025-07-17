@@ -46,7 +46,7 @@
 
 ## Contact:
 
-[![Email](https://img.shields.io/badge/ingcapadev@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:yeraykeira@gmail.com)
+[![Email](https://img.shields.io/badge/yeraykeira@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:yeraykeira@gmail.com)
 
 <!--
 **YerayPadial/YerayPadial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
