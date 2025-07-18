@@ -47,6 +47,31 @@
   <img width="12" />
 </div>
 
+## Proyects:
+
+>[!NOTE]
+>Estos proyectos, son un reflejo de los conocimientos aprendidos durante mi curso de Desarrollo de aplicaciones Web
+
+ <br>
+ 
+Proyect | Description
+----------|------------
+[Gestión de gruas](https://raw.githubusercontent.com/Padiyera/Web-Application-Deployment/refs/heads/main/Tr.1_Proyecto/Readme.md) | Proyecto frontend desarrrollado con Vue, Php y Mysql.
+[Gestión de empresa](https://raw.githubusercontent.com/Padiyera/Web-Application-Deployment/refs/heads/main/Tr.2_Proyecto/Myproyect2.md) | Proyecto backend desarrrollado con Laravel, Php y Mysql.
+
+<br>
+
+>[!IMPORTANT]
+>Este es mi proyecto más reciente.
+
+ <br>
+ 
+Proyect | Description
+----------|------------
+[Gestión de gimnasio + tienda](https://raw.githubusercontent.com/Padiyera/Web-Application-Deployment/refs/heads/main/Tr.1_Proyecto/Readme.md) | Proyecto fullstack desarrrollado con Angular, Laravel, Moonshine y Mysql.
+
+
+
 ## Links:
 [![Website](https://img.shields.io/badge/Website-Padiyera-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://Padiyera.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@YerayPadial-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/yeray-padial-borrero-40a73336b)
