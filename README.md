@@ -2,8 +2,8 @@
 
 Hi! I'm Yeray Padial, a programmer focused on full-stack web development. I'm passionate about building efficient solutions and constantly learning new technologies. I enjoy working with frameworks like Angular, Vue, and Laravel.
 
-- 🔧 Currently practicing with: A web app to manage appointments, employees, and consultations  
-- 📚 Always learning something new  
+- 🔧 Currently practicing with: A web app to manage appointments, employees, and consultations.  
+- 📚 Always learning something new.  
 - 🌱 Think, Reason, and Act.
 
 ## Technologies:
