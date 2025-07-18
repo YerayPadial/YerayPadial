@@ -1,3 +1,11 @@
+## 👋 About Me
+
+Hi! I'm Yeray Padial, a programmer focused on full-stack web development. I'm passionate about building efficient solutions and constantly learning new technologies. I enjoy working with frameworks like Angular, Vue, and Laravel.
+
+- 🔧 Always learning something new  
+- 🌱 Currently practicing with: A web app to manage appointments, employees, and consultations  
+- 📚 Think, Reason, and Act.
+
 ## Technologies:
 
 <div align="left">
@@ -50,25 +58,25 @@
 ## Proyects:
 
 >[!IMPORTANT]
->Este es mi proyecto más reciente.
+>This is my most recent project.
 
- <br>
- 
-Proyect | Description
-----------|------------
-[Gestión de gimnasio + tienda](https://github.com/YerayPadial/Proyecto_Gestion_Gimnasio_Tienda) | Proyecto fullstack desarrrollado con Angular, Laravel, Moonshine y Mysql.
+<br>
+
+Project | Description  
+--------|-------------  
+[Gym Management + Store](https://github.com/YerayPadial/Proyecto_Gestion_Gimnasio_Tienda) | Fullstack project developed with Angular, Laravel, Moonshine, and MySQL.
 
 <br>
 
 >[!NOTE]
->Estos proyectos, son un reflejo de los conocimientos aprendidos durante mi curso de Desarrollo de aplicaciones Web
+>These projects reflect the knowledge I gained during my Web Application Development course.
 
- <br>
- 
-Proyect | Description
-----------|------------
-[Gestión de gruas](https://github.com/YerayPadial/Proyecto_Gestion_Grua) | Proyecto frontend desarrrollado con Vue, Php y Mysql.
-[Gestión de empresa](https://github.com/YerayPadial/Proyecto_Control_Empresa) | Proyecto backend desarrrollado con Laravel, Php y Mysql.
+<br>
+
+Project | Description  
+--------|-------------  
+[Tow Truck Management](https://github.com/YerayPadial/Proyecto_Gestion_Grua) | Frontend project developed with Vue, PHP, and MySQL.  
+[Company Management](https://github.com/YerayPadial/Proyecto_Control_Empresa) | Backend project developed with Laravel, PHP, and MySQL.
 
 
 ## Links:
