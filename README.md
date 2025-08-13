@@ -64,7 +64,7 @@ Hi! I'm Yeray Padial, a programmer focused on full-stack web development. I'm pa
 
 Project | Description  
 --------|-------------  
-[Gym Management + Store](https://github.com/YerayPadial/Proyecto_Gestion_Gimnasio_Tienda) | Fullstack project developed with Angular, Laravel, Moonshine, and MySQL.
+[Control restaurant + command](https://github.com/YerayPadial/comandas-app) | Fullstack project developed with Angular, Laravel and MySQL.
 
 <br>
 
@@ -77,6 +77,7 @@ Project | Description
 --------|-------------  
 [Tow Truck Management](https://github.com/YerayPadial/Proyecto_Gestion_Grua) | Frontend project developed with Vue, PHP, and MySQL.  
 [Company Management](https://github.com/YerayPadial/Proyecto_Control_Empresa) | Backend project developed with Laravel, PHP, and MySQL.
+[Gym Management + Store](https://github.com/YerayPadial/Proyecto_Gestion_Gimnasio_Tienda) | Fullstack project developed with Angular, Laravel, Moonshine, and MySQL.
 
 
 ## Links:
