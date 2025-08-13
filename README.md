@@ -76,7 +76,7 @@ Project | Description
 Project | Description  
 --------|-------------  
 [Tow Truck Management](https://github.com/YerayPadial/Proyecto_Gestion_Grua) | Frontend project developed with Vue, PHP, and MySQL.  
-[Company Management](https://github.com/YerayPadial/Proyecto_Control_Empresa) | Backend project developed with Laravel, PHP, and MySQL.
+[Company Management](https://github.com/YerayPadial/Proyecto_Control_Empresa) | Backend project developed with Laravel and MySQL.
 [Gym Management + Store](https://github.com/YerayPadial/Proyecto_Gestion_Gimnasio_Tienda) | Fullstack project developed with Angular, Laravel, Moonshine, and MySQL.
 
 
