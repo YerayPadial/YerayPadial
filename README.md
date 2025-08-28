@@ -29,6 +29,10 @@ Hi! I'm Yeray Padial, a programmer focused on full-stack web development. I'm pa
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
@@ -36,8 +40,6 @@ Hi! I'm Yeray Padial, a programmer focused on full-stack web development. I'm pa
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
@@ -53,6 +55,8 @@ Hi! I'm Yeray Padial, a programmer focused on full-stack web development. I'm pa
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
 </div>
 
 ## Proyects:
@@ -64,17 +68,18 @@ Hi! I'm Yeray Padial, a programmer focused on full-stack web development. I'm pa
 
 Project | Description  
 --------|-------------  
-[Control restaurant + command](https://github.com/YerayPadial/comandas-app) | Fullstack project developed with Angular, Laravel and MySQL.
+[E-commerce Clothing Store](https://github.com/YerayPadial/tienda) | Complete e-commerce platform with customer frontend and admin panel, developed with React, TypeScript, Laravel and MySQL.
 
 <br>
 
 >[!NOTE]
->These projects reflect the knowledge I gained during my Web Application Development course.
+>These projects showcase my professional development and learning journey.
 
 <br>
 
 Project | Description  
 --------|-------------  
+[Control restaurant + command](https://github.com/YerayPadial/comandas-app) | Fullstack project developed with Angular, Laravel and MySQL.
 [Tow Truck Management](https://github.com/YerayPadial/Proyecto_Gestion_Grua) | Frontend project developed with Vue, PHP, and MySQL.  
 [Company Management](https://github.com/YerayPadial/Proyecto_Control_Empresa) | Backend project developed with Laravel and MySQL.
 [Gym Management + Store](https://github.com/YerayPadial/Proyecto_Gestion_Gimnasio_Tienda) | Fullstack project developed with Angular, Laravel, Moonshine, and MySQL.
