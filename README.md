@@ -2,7 +2,7 @@
 
 Hi! I'm Yeray Padial, a programmer focused on full-stack web development. I'm passionate about building efficient solutions and constantly learning new technologies. I enjoy working with frameworks like Angular, Vue, and Laravel.
 
-- 🔧 Currently practicing with: A web app to manage appointments, employees, and consultations.  
+- 🔧 Currently studying a Master's in AI and Data Analysis.  
 - 📚 Always learning something new.  
 - 🌱 Think, Reason, and Act.
 
@@ -56,6 +56,8 @@ Hi! I'm Yeray Padial, a programmer focused on full-stack web development. I'm pa
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="Salesforce logo" />
   <img width="12" />
 </div>
 
