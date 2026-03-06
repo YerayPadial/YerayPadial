@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi! I'm Yeray Padial. My journey started in full-stack web development (Angular, Vue, Laravel), but my career has recently taken an exciting turn towards **DevOps and Cloud Engineering**. 
+Hi! I'm Yeray Padial. My journey started in full-stack web development, but my career has recently taken an exciting turn towards **DevOps and Cloud Engineering**. 
 
 I am currently working as a DevOps at **Stemdo**, where I'm focusing on public cloud infrastructure (AWS), Infrastructure as Code (IaC), Kubernetes, CI/CD pipelines, and process automation. I love building efficient solutions and bridging the gap between development and operations.
 
