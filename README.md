@@ -81,6 +81,13 @@ I am currently working as a DevOps at **Stemdo**, where I'm focusing on public c
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="Salesforce logo" />
   <img width="12" />
+  <img src="https://img.shields.io/badge/APEX-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" height="40" alt="apex logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
+  <img width="12" />
+  
 </div>
 
 ## Projects:
