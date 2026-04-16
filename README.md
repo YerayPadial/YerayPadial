@@ -99,7 +99,7 @@ I am currently working as a DevOps at **Stemdo**, where I'm focusing on public c
 
 Project | Description  
 --------|-------------  
-[E-commerce Clothing Store](https://github.com/YerayPadial/tienda) | Complete e-commerce platform with customer frontend and admin panel, developed with React, TypeScript, Laravel and MySQL.
+[Biometric Access Control (AI)](https://github.com/YerayPadial/control_acceso_ai) | Advanced security system using neural networks for facial recognition and anti-spoofing. Cloud architecture deployed on Hugging Face using Python, FastAPI, DeepFace, and Docker.
 
 <br>
 
@@ -110,6 +110,7 @@ Project | Description
 
 Project | Description  
 --------|-------------  
+[E-commerce Clothing Store](https://github.com/YerayPadial/tienda) | Complete e-commerce platform with customer frontend and admin panel, developed with React, TypeScript, Laravel and MySQL.
 [Control restaurant + command](https://github.com/YerayPadial/comandas-app) | Fullstack project developed with Angular, Laravel and MySQL.
 [Tow Truck Management](https://github.com/YerayPadial/Proyecto_Gestion_Grua) | Frontend project developed with Vue, PHP, and MySQL.  
 [Company Management](https://github.com/YerayPadial/Proyecto_Control_Empresa) | Backend project developed with Laravel and MySQL.
